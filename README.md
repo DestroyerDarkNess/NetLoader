@@ -37,6 +37,6 @@ You can download the compiled project here: [Download Realse](https://github.com
  ## Contributors
 - Destroyer : Creator and Developer.  / Discord : Destroyer#8328 
 - IdiotForever : Developer. / Discord : --------
-
+- BloodSharp : Thanks for your guidance in c ++. / Discord : BloodSharp#7180
 
 
