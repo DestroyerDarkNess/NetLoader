@@ -22,6 +22,8 @@ I : Well. It is basically the objective you want to achieve by injecting your dl
 
 You can download the compiled project here: [Download Realse](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.1/NetLoaderc0.1.zip)
 
+NetLoader for ASI Loader [GTA 3 | GTA VC | GTA SA | GTA V]: [Download Realse for ASI Loader](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.1/NetLoader_for_ASILoader.rar)
+
 ## Instructions
 
 1) Download The Compiled Project. 
