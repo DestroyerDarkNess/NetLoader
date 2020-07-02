@@ -1,0 +1,10 @@
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\bin\Debug\NetLoader.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\bin\Debug\NetLoader.exe
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\bin\Debug\NetLoader.pdb
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\bin\Debug\NetLoader.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\obj\Debug\NetLoader.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\obj\Debug\NetLoader.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\obj\Debug\NetLoader.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\obj\Debug\NetLoader.exe
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\obj\Debug\NetLoader.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\NetLoader\NetLoader\obj\Debug\NetLoader.pdb
