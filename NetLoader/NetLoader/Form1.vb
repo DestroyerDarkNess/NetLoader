@@ -17,7 +17,12 @@ Public Class Form1
                  : Application.SetUnhandledExceptionMode(UnhandledExceptionMode.CatchException, False) _
                  : Catch : End Try
         Dim arguments As String() = Environment.GetCommandLineArgs()
-        ProcessN = arguments(0)
+        Dim Nargument As Integer = arguments.Count
+        If Nargument = 2 Then
+            ProcessN = arguments(1)
+        ElseIf Nargument = 1 Then
+            ProcessN = arguments(0)
+        End If
 
         If LCase(Path.GetFileName(ProcessN)) = LCase(CurrentName) Then
             MsgBox("Error : PROCESS_DETACH [ " & ProcessN & " ]")
