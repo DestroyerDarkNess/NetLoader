@@ -29,7 +29,7 @@ NetLoader for ASI Loader [GTA 3 | GTA VC | GTA SA | GTA V]: [Download Realse for
 1) Download The Compiled Project. 
 2) Create Your .Net Dll based on the Example that you leave in the Project.
 3) Put your Compiled DLL Inside the [NetPlugins] Folder.
-4) Inject The Native DLL [ASIExNet.dll] into The process you want your DLL to load.
+4) Inject The Native DLL [ASIExNet.dll] into The process you want your DLL to load. Or You can Load NetLoader using the [CustomLoader.exe] that comes with the files.
 5) Done! The Loader will take care of Executing The Code of your DLL.
 
 ![Preview](https://i.ibb.co/8bJDWL2/1.png)
