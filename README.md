@@ -20,9 +20,9 @@ You : Come on, this is not injecting my DLL In the process I want, you are only 
 
 I : Well. It is basically the objective you want to achieve by injecting your dll. You want to run your code!!!
 
-You can download the compiled project here: [Download Realse](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.1/NetLoaderc0.1.zip)
+You can download the compiled project here: [Download Realse](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.2/NetLoaderv0.2.rar)
 
-NetLoader for ASI Loader [GTA 3 | GTA VC | GTA SA | GTA V]: [Download Realse for ASI Loader](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.1/NetLoader_for_ASILoader.rar)
+NetLoader for ASI Loader [GTA 3 | GTA VC | GTA SA | GTA V]: [Download Realse for ASI Loader](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.2/NetLoader_for_ASILoaderv2.rar)
 
 ## Instructions
 
