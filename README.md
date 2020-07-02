@@ -1,6 +1,6 @@
 # NetLoader
 
-![Preview](https://i.ibb.co/PGn2k6D/icons8-loading-sign-64.png)
+![Preview](https://i.ibb.co/MSBSXP4/icons8-loading-sign-100.png)
 
 ## Introduction
 Load Your .NET DLLs by Injecting them in the Process as in c ++ .
